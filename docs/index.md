@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Alwib"
-  text: "Экосистема полезных SAAS сервисов"
+  text: "Экосистема полезных SaaS сервисов"
   tagline: Используй VPN, спрашивай у ИИ помощника и скачивай любой контент
   image: 
     src: /alwib.png
