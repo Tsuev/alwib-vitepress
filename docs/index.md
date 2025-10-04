@@ -11,8 +11,8 @@ hero:
     alt: логотип Alwib
   actions:
     - theme: brand
-      text: Начать работу
-      link: https://workspace.alwib.ru
+      text: Скоро
+      link: #
 
 features:
   - icon: '🛡️'
